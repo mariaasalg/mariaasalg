@@ -1,6 +1,6 @@
 Welcome!
 
-- 💻 CS student
+- 💻 Computer science student
 - 🌱 Currently learning Python and Assembly RISC-V
   
 
